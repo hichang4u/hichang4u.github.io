@@ -46,3 +46,5 @@ permalink: /blog/categories/your_category_name/
 
 Using the category, all the posts associated with the category will be listed on
 `http://localhost:4000/blog/categories/your_category_name`
+
+ ![22749152](../images/2021-02-28-adding-categories-tags-in-posts/22749152.png)
